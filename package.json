@@ -1,0 +1,15 @@
+{
+  "name": "boc-js",
+  "version": "1.0.0",
+  "description": "A cutting-edge JavaScript framework for elegant, vanilla web components",
+  "keywords": [
+    "boc-js"
+  ],
+  "license": "MIT",
+  "author": "blubitz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
